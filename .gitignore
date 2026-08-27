@@ -1,0 +1,10 @@
+.venv/
+.env
+__pycache__/
+*.pyc
+.pytest_cache/
+data/northstar.duckdb
+data/document_index.json
+data/clean_sales.csv
+data/northstar.duckdb
+data/document_index.json
